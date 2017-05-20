@@ -10,3 +10,10 @@ game trên android
     mysql> quit
   </code>
 </pre>
+
+<pre>
+  <code>
+    sudo apt-get install mysql-server mysql-client libmysqlclient-dev
+  </code>
+</pre>
+    
